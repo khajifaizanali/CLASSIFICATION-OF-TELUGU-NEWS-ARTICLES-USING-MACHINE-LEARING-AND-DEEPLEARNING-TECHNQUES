@@ -21,7 +21,8 @@ Random forests or random decision forests are an ensemble learning method for cl
 ## BuildingDeep Neural Network Architecture 
 Deep Learning uses a Neural Network to imitate animal intelligence. There are three types of layers of neurons in a neural network: the Input Layer, the Hidden Layer(s), and the Output Layer. Connections between neurons are associated with a weight, dictating the importance of the input value. In our Project we have used Kera’s to build architecture and train the classifier. The Architecture used for this Project is shown in the Image Below
 ## Validation of Built Classifiers
-	The Classifiers are Validated with Test Dataset and Best Algorithm is chosen. The Classification Reports of Various classifiers are Genrated.
+	The Classifiers are Validated with Test Dataset and Best Algorithm is chosen. 
+	The Classification Reports of Various classifiers are Genrated.
 
  
 
